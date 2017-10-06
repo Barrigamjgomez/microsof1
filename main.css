@@ -1,0 +1,41 @@
+body{
+
+/*alinear los elementos dela pagina 
+text-align es para alinear todo */
+   text-align: center;
+
+
+}
+.cuadrado-color{
+ /* background-color: gray; siempre se coloca en ingles */
+ background-color: gray;
+ padding-bottom: 40px; /*dar espacio*/
+
+font-family: 'Germania One';
+}            
+p{
+color:#FF0040;
+font-family: 'Germania One';
+ 
+/*cambiando la tipografia*/
+}
+h1{
+font-family: 'Germania One';
+
+}
+
+
+/*darle tamaño a las fotos*/
+.foto2{
+
+	width: 600px;
+	height: 400px;
+}
+
+
+/*hacer el separados */
+.enlaces{
+border-top: 1px dashed blue; 
+/*buscar types border css */
+
+}
